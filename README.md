@@ -1,2 +1,2 @@
-# misc-code
-Miscellaneous code snippets and stuff
+# Miscellaneous Code
+Snippets, management scripts etc.
