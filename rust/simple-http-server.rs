@@ -2,6 +2,8 @@
  * A very limited HTTP server implementation.
  * 
  * Intended for use in a metrics exporter because I didn't like the available HTTP server frameworks. I changed my mind.
+ * 
+ * Required dependencies: regex, bufstream, lazy_static, chrono
  */
 
 use std::collections::HashMap;
